@@ -12,7 +12,7 @@ public class Addition {
         int num2 = sc.nextInt();
 
         int sum = num1 + num2;
-        System.out.print("The Additions of two number is :" + sum);
+        System.out.print("The Additions  of two number is :" + sum);
     }
 }
 
