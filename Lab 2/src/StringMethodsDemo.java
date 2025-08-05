@@ -60,3 +60,30 @@ public class StringMethodsDemo {
         System.out.println("Is emptyStr empty?: " + emptyStr.isEmpty());
     }
 }
+
+
+
+//OUTPUT
+//
+//
+//Length of str1: 13
+//Character at index 1 in str1: e
+//str1 equals str2: false
+//str1 equalsIgnoreCase str2: true
+//compareTo: -32
+//compareToIgnoreCase: 0
+//Uppercase: HELLO, WORLD!
+//Lowercase: hello, world!
+//Substring (0, 5): Hello
+//Contains 'World': true
+//Index of 'o': 4
+//Last index of 'o': 8
+//Replace 'World' with 'Java': Hello, Java!
+//Before trim: '   Java Programming   '
+//After trim: 'Java Programming'
+//Starts with 'Hello': true
+//Ends with '!': true
+//Split str1 by ', ':
+//Hello
+//World!
+//Is emptyStr empty?: true
