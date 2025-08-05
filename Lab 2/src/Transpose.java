@@ -1,6 +1,7 @@
 // Display element of a 2-D array in form of matrix and also print it's transpose.
 
 
+
 import java.util.Scanner;
 
 public class Transpose {
