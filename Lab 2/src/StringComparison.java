@@ -1,7 +1,7 @@
-// WAP to Compare 2 strings using compareTo(), == operator and .equals().
 
 
 // WAP to Compare 2 strings using compareTo(), == operator and .equals().
+
 
 
 public class StringComparison {
