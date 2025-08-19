@@ -1,4 +1,4 @@
-// Java program to demonstrate method overloading with different number of parameters
+// 2. Java program to demonstrate method overloading with different number of parameters
 
 public class MethodOverPara {
     public int multiply(int a, int b) {
