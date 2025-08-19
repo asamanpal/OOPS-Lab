@@ -18,3 +18,9 @@ public class MethodOverPara {
         System.out.println("Result of multiply(2, 3, 4): " + result2);
     }
 }
+
+
+// multiply(int, int) called
+// multiply(int, int, int) called
+// Result of multiply(2, 3): 6
+// Result of multiply(2, 3, 4): 24
