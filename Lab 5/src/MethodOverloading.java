@@ -19,3 +19,9 @@ public class MethodOverloading {
         System.out.println("Sum of doubles: " + sumDouble);
     }
 }
+
+
+// add(int, int) called
+// add(double, double) called
+// Sum of integers: 15
+// Sum of doubles: 15.7
