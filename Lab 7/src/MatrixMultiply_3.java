@@ -1,6 +1,6 @@
 // Write a Java program to multiply two given matrices.
 
-public class MatrixMultiply2x2 {
+public class MatrixMultiply_3 {
     public static void main(String[] args) {
         int[][] A = {
                 { 1, 2 },

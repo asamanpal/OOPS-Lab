@@ -12,7 +12,7 @@ class Circle extends Shape {
     }
 }
 
-public class Final_1 {
+public class Final_2 {
     public static void main(String[] args) {
         Circle c = new Circle();
         c.display();
